@@ -64,8 +64,8 @@ let nosonIgualesEstricto5 = "5" !== 5; //true
 let estoEsUndefinitedDeclarado = undefined //representa a un valor no definido
 let estoEsUndefined// representa a un valor no definido
 
-/* -------Type of---------------- */
-//devuelve una cadena o string
+/* ------------Type of---------------- */
+//devuelve una cadena o string sin evaluarlo
 let saludo = "Hola";
 let nombre = "Wendy";
 let edad = 25;

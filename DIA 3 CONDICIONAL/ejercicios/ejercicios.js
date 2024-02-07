@@ -32,17 +32,17 @@ if(numero2 > 20 && numero2 < 50) {
 
 
 //opcion B
-/* let y = Number(prompt("Digite numero: "));
+let y = Number(prompt("Digite numero: "));
 if(y < 50 && y > 20) {
     alert("El numero es menor que 50 y mayor que 20");
 }else{
     alert("El numero no es menor que 50 y mayor que 20");
-} */
+}
 
 //opcion C
-/* let NumeroEjercicio2 = prompt("Ingrese un valor numerico");
+let NumeroEjercicio2 = prompt("Ingrese un valor numerico");
 if(Number(NumeroEjercicio2) < 50 && Number(NumeroEjercicio2) > 20) {
     alert("true");
 }else{
     alert("False");
-} */
+}
